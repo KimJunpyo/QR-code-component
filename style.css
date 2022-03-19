@@ -13,6 +13,7 @@ body{
   transform: translate(-50%, -50%);
   background-color: hsl(0, 0%, 100%);
   border-radius : 20px;
+  box-shadow: 1px 25px 35px -2px hsla(220, 15%, 55%, 0.15);
 }
 img {
   display : block;
@@ -35,10 +36,11 @@ p{
   font-size : 140%;
   font-family: 'Outfit', sans-serif;
   color: hsl(218, 44%, 22%);
+  font-weight: 700;
 }
 .textServe{
-  font-size : 90%;
-  font-family: 'Outfit',inherit;
+  font-size : 15px;
   color : hsl(220, 15%, 55%);
-  font-weight: bolder;
+  font-family: 'Outfit', ;
+  font-weight: 400;
 }
