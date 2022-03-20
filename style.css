@@ -25,21 +25,22 @@ img {
   border-radius : 15px;
 }
 p{
-    margin-left : 30px;
-    margin-right : 30px;
-    text-align: center;
+  margin-left : 30px;
+  margin-right : 30px;
+  text-align: center;
 }
-.textMain {
-  font-size : 140%;
-  font-family: 'Outfit', sans-serif;
+.texts{
+  font-family: 'Outfit';
+}
+.texts #textMain {
+  text-align: center;
+  font-size : 25px;
   color: hsl(218, 44%, 22%);
   font-weight: 700;
 }
-.textServe{
-  font-size : 15px;
+.texts #textServe{
   color : hsl(220, 15%, 55%);
-  font-family: 'Outfit', ;
-  font-weight: 400;
+  font-size: 15px;
 }
 footer{ position:fixed;
   text-align: center;
